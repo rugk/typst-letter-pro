@@ -40,9 +40,11 @@ und bitte Sie, die Abschreibung anzuerkennen.
 
 Anbei erhalten Sie eine Kopie der Rechnung des Gerätes.
 
-Mit freundlichen Grüßen
-#v(1cm)
-Anja Ahlsen
+#block(breakable: false)[
+  Mit freundlichen Grüßen
+  #v(1cm)
+  Anja Ahlsen
+]
 
 #v(1fr)
 *Anlagen:*
